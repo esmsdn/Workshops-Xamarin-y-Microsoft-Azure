@@ -3,9 +3,13 @@ Para poder desarrollar correctamente el workshop de aplicaciones multiplataforma
 
 ## Instalación de Xamarin
 Para poder desarrollar tus aplicaciones con Xamarin, recomendamos utilizar Visual Studio en Windows. Para ello, puedes descargar la versión gratuita: ([Visual Studio Community](https://www.visualstudio.com/es/vs/community/)).
+
 Durante el proceso de instalación, deberás seleccionar la opción de Personalizar, y activar la casilla de Desarrollo Móvil Multiplataforma > C#/.NET (Xamarin). ([Más información](https://msdn.microsoft.com/es-es/library/mt613162.aspx)).
+
 ![Visual Studio Instal](Images/VS Instal.png)
+
 ![Visual Studio Instal2](Images/VS Instal2.png)
+
 De forma opcional, si utilizas MacOS podras utilizar ([Xamarin Studio](https://www.xamarin.com/download)), aunque este workshop no está
 dirigido a esta herramienta.
 
