@@ -2,7 +2,7 @@
 Para poder desarrollar correctamente el workshop de aplicaciones multiplataforma con Xamarin y backend en Microsoft Azure con Mobile Apps es necesaria la configuración del entorno de desarrollo y cuenta de Microsoft Azure. Aquí encontrarás los pasos para realizarlo.
 
 ## Instalación de Xamarin
-Para poder desarrollar tus aplicaciones con Xamarin, recomendamos utilizar **Visual Studio Update 3** en Windows. Para ello, puedes descargar la versión gratuita: ([Visual Studio Community](https://www.visualstudio.com/es/vs/community/)).
+Para poder desarrollar tus aplicaciones con Xamarin, recomendamos utilizar **Visual Studio Update 3** en Windows 10. Para ello, puedes descargar la versión gratuita: ([Visual Studio Community](https://www.visualstudio.com/es/vs/community/)).
 
 Durante el proceso de instalación, deberás seleccionar la opción de Personalizar, y activar la casilla de Desarrollo Móvil Multiplataforma > C#/.NET (Xamarin). ([Más información](https://msdn.microsoft.com/es-es/library/mt613162.aspx)).
 
