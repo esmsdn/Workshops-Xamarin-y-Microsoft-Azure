@@ -23,5 +23,5 @@ Para poder gestionar el backend de la aplicación se hará uso de Microsoft Azur
 
 ## Comprueba que todo esta correcto
 Para comprobar que todo funciona correctamente para la formación, por favor, realiza las siguientes pruebas:
-- Comprueba que puedes compilar el siguiente ([proyecto](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab/Start)).
-- Comprueba que al acceder a ([Microsoft Azure](https://portal.azure.com/)) y muestra la suscripción correcta.
+- Comprueba que puedes compilar el siguiente [proyecto](https://github.com/xamarin/dev-days-labs/tree/master/HandsOnLab/Start).
+- Comprueba que al acceder a [Microsoft Azure](https://portal.azure.com/) y muestra la suscripción correcta.
