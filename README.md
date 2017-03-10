@@ -10,11 +10,11 @@ Durante el proceso de instalación, deberás seleccionar las opciones:
 - Mobile development with .NET
 
 
-![](media/uwp.png)
+![](media/uwp.PNG)
 
-![](media/azure.png)
+![](media/azure.PNG)
 
-![](media/xamarin.png)
+![](media/xamarin.PNG)
 
 De forma opcional, si utilizas MacOS podras utilizar [Visual Studio for Mac](https://www.visualstudio.com/es/vs/visual-studio-mac/).
 
